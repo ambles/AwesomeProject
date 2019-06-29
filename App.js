@@ -6,7 +6,7 @@
  * @flow
  */
 
- import React, { Component } from 'react';
+import React, { Component } from 'react';
 import { AppRegistry, Image } from 'react-native';
 
 export default class Bananas extends Component {
